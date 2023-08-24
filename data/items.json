@@ -1,0 +1,242 @@
+{
+  "detail": [
+    {
+      "nama": "Sayur Bening",
+      "pengeluaraan": 79852,
+      "tanggal": "11/08/2023",
+      "jam": "00:00",
+      "id": 1
+    },
+    {
+      "nama": "Sayur Lodeh",
+      "pengeluaraan": 62879,
+      "tanggal": "11/08/2023",
+      "jam": "04:20",
+      "id": 2
+    },
+    {
+      "nama": "Tahu Sumedang",
+      "pengeluaraan": 48229,
+      "tanggal": "11/08/2023",
+      "jam": "17:08",
+      "id": 3
+    },
+    {
+      "nama": "Soto Kuning",
+      "pengeluaraan": 98634,
+      "tanggal": "12/08/2023",
+      "jam": "19:27",
+      "id": 4
+    },
+    {
+      "nama": "Cireng",
+      "pengeluaraan": 49347,
+      "tanggal": "12/08/2023",
+      "jam": "21:48",
+      "id": 5
+    },
+    {
+      "nama": "Tahu Bulat",
+      "pengeluaraan": 85271,
+      "tanggal": "12/08/2023",
+      "jam": "05:07",
+      "id": 6
+    },
+    {
+      "nama": "Tahu Sumedang",
+      "pengeluaraan": 25607,
+      "tanggal": "13/08/2023",
+      "jam": "12:47",
+      "id": 7
+    },
+    {
+      "nama": "Pepes Ikan",
+      "pengeluaraan": 72847,
+      "tanggal": "13/08/2023",
+      "jam": "13:16",
+      "id": 8
+    },
+    {
+      "nama": "Nasi Timbel",
+      "pengeluaraan": 21668,
+      "tanggal": "13/08/2023",
+      "jam": "21:00",
+      "id": 9
+    },
+    {
+      "nama": "Nasi Pecel",
+      "pengeluaraan": 56352,
+      "tanggal": "14/08/2023",
+      "jam": "22:21",
+      "id": 10
+    },
+    {
+      "nama": "Kwetiau Rebus",
+      "pengeluaraan": 27279,
+      "tanggal": "14/08/2023",
+      "jam": "07:07",
+      "id": 11
+    },
+    {
+      "nama": "Sop Ayam",
+      "pengeluaraan": 82158,
+      "tanggal": "14/08/2023",
+      "jam": "08:07",
+      "id": 12
+    },
+    {
+      "nama": "Kwetiau Goreng",
+      "pengeluaraan": 16518,
+      "tanggal": "15/08/2023",
+      "jam": "09:21",
+      "id": 13
+    },
+    {
+      "nama": "Rendang",
+      "pengeluaraan": 89928,
+      "tanggal": "15/08/2023",
+      "jam": "00:45",
+      "id": 14
+    },
+    {
+      "nama": "Otak-Otak",
+      "pengeluaraan": 45962,
+      "tanggal": "15/08/2023",
+      "jam": "02:30",
+      "id": 15
+    },
+    {
+      "nama": "Soto Ayam",
+      "pengeluaraan": 22548,
+      "tanggal": "16/08/2023",
+      "jam": "13:56",
+      "id": 16
+    },
+    {
+      "nama": "Serabi",
+      "pengeluaraan": 56161,
+      "tanggal": "16/08/2023",
+      "jam": "16:03",
+      "id": 17
+    },
+    {
+      "nama": "Wajik",
+      "pengeluaraan": 68051,
+      "tanggal": "16/08/2023",
+      "jam": "22:02",
+      "id": 18
+    },
+    {
+      "nama": "Rujak",
+      "pengeluaraan": 95414,
+      "tanggal": "17/08/2023",
+      "jam": "19:09",
+      "id": 19
+    },
+    {
+      "nama": "Soto Betawi",
+      "pengeluaraan": 72704,
+      "tanggal": "17/08/2023",
+      "jam": "02:19",
+      "id": 20
+    },
+    {
+      "nama": "Ayam Goreng",
+      "pengeluaraan": 76935,
+      "tanggal": "17/08/2023",
+      "jam": "13:08",
+      "id": 21
+    },
+    {
+      "nama": "Ayam Tangkap",
+      "pengeluaraan": 77249,
+      "tanggal": "18/08/2023",
+      "jam": "18:30",
+      "id": 22
+    },
+    {
+      "nama": "Mie Rebus",
+      "pengeluaraan": 32515,
+      "tanggal": "24/08/2023",
+      "jam": "13:24",
+      "id": 23
+    },
+    {
+      "nama": "Klontong",
+      "pengeluaraan": 91903,
+      "tanggal": "24/08/2023",
+      "jam": "19:54",
+      "id": 24
+    },
+    {
+      "nama": "Otak-Otak",
+      "pengeluaraan": 11971,
+      "tanggal": "18/08/2023",
+      "jam": "08:45",
+      "id": 25
+    },
+    {
+      "nama": "Urap",
+      "pengeluaraan": 19431,
+      "tanggal": "24/08/2023",
+      "jam": "14:23",
+      "id": 26
+    },
+    {
+      "nama": "Urap",
+      "pengeluaraan": 82753,
+      "tanggal": "18/08/2023",
+      "jam": "23:02",
+      "id": 27
+    },
+    {
+      "nama": "Klepon",
+      "pengeluaraan": 67834,
+      "tanggal": "19/08/2023",
+      "jam": "23:02",
+      "id": 28
+    },
+    {
+      "nama": "Mie Kocok",
+      "pengeluaraan": 56783,
+      "tanggal": "19/08/2023",
+      "jam": "11:02",
+      "id": 29
+    },
+    {
+      "nama": "Sate",
+      "pengeluaraan": 45632,
+      "tanggal": "19/08/2023",
+      "jam": "15:42",
+      "id": 30
+    },
+    {
+      "nama": "Ayam Geprek",
+      "pengeluaraan": 14506,
+      "tanggal": "20/08/2023",
+      "jam": "19:23",
+      "id": 31
+    },
+    {
+      "nama": "Ayam Bakar",
+      "pengeluaraan": 12407,
+      "tanggal": "20/08/2023",
+      "jam": "15:52",
+      "id": 32
+    },
+    {
+      "nama": "Ayam Pop",
+      "pengeluaraan": 45768,
+      "tanggal": "20/08/2023",
+      "jam": "12:13",
+      "id": 33
+    },
+    {
+      "nama": "Ketoprak",
+      "pengeluaraan": 12372,
+      "tanggal": "24/08/2023",
+      "jam": "20:00",
+      "id": 34
+    }
+  ]
+}
